@@ -29,7 +29,7 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/arnaudjnn)
 
-[![Straude Consistency Card](https://straude.com/api/consistency/arnaudjnn/image)](https://straude.com/consistency/arnaudjnn)
+[![Straude Consistency Card](https://straude.com/consistency/arnaudjnn/opengraph-image)](https://straude.com/consistency/arnaudjnn)
 
 ## What I'm Doing
 
