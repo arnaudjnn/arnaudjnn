@@ -55,7 +55,7 @@
 <summary>Random Facts</summary>
 
 - Stone walls and sales pipelines both need solid foundations
-- One human, a swarm of agents: I orchestrate Claude instances in parallel, shipping like a whole team 🤖
+- One human orchestrating a swarm of Claude agents 🤖
 - Powered by Italian Dolce Vita culture 🇮🇹
 - Forward. Always forward. 🏉
 
