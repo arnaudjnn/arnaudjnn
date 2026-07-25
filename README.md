@@ -55,7 +55,7 @@
 <summary>Random Facts</summary>
 
 - Stone walls and sales pipelines both need solid foundations
-- Run 3-6 Claude instances concurrently
+- One human, a swarm of agents: I orchestrate 3-6 Claude instances in parallel, shipping like a whole team 🤖
 - Powered by Italian Dolce Vita culture 🇮🇹
 - Forward. Always forward. 🏉
 
