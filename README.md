@@ -12,17 +12,18 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-> Your GTM motion isn't under-staffed — it's under-engineered. I build the systems that fix that.
+> Your GTM motion isn't under-staffed. It's under-engineered. I build the systems that fix that.
 
 ## Current Projects
 
-- 🎯 **[gtm-skills](https://github.com/arnaudjnn/gtm-skills)** - AI agent skills for go-to-market automation — outbound campaigns, reply classification & buying signal detection
-- 🤖 **[nanoclaw-railway](https://github.com/arnaudjnn/nanoclaw-railway)** - Lightweight Claude agent platform running in isolated containers — WhatsApp, Telegram, Slack, Discord & Gmail
-- 🌐 **[web-tools](https://github.com/arnaudjnn/web-tools)** - MCP server for web search, content extraction, screenshots & PDF generation — powered by SearXNG and Crawl4AI
-- 📧 **[outbound-tools](https://github.com/arnaudjnn/outbound-tools)** - MCP server for email outreach via IMAP/SMTP — AI-powered reply classification, audience segments & engagement metrics
+- 💳 **[billing-tools](https://github.com/arnaudjnn/billing-tools)** - The get-paid engine for Stripe + WorkOS apps, for humans and AI agents. Drop-in API-key auth, token and subscription billing, auth.md agent registration, and MPP machine payments, as MCP tools, a REST API, and a CLI.
+- 🎯 **[gtm-skills](https://github.com/arnaudjnn/gtm-skills)** - AI agent skills for go-to-market automation: outbound campaigns, reply classification, and buying-signal detection.
+- 🌐 **[web-tools](https://github.com/arnaudjnn/web-tools)** - MCP server for web search, content extraction, screenshots, and PDF generation, powered by SearXNG and Crawl4AI.
+- 📧 **[outbound-tools](https://github.com/arnaudjnn/outbound-tools)** - MCP server for email outreach via IMAP/SMTP: AI-powered reply classification, audience segments, and engagement metrics.
 
 ### Legacy Work
-- 🎙️ **[ai-meeting-copilot](https://github.com/arnaudjnn/ai-meeting-copilot)** - Open-source meeting assistant with real-time transcription and AI-powered Q&A
+- 🤖 **[nanoclaw-railway](https://github.com/arnaudjnn/nanoclaw-railway)** - Lightweight Claude agent platform running in isolated containers: WhatsApp, Telegram, Slack, Discord, and Gmail.
+- 🎙️ **[ai-meeting-copilot](https://github.com/arnaudjnn/ai-meeting-copilot)** - Open-source meeting assistant with real-time transcription and AI-powered Q&A.
 
 
 ## Coding Activity
@@ -48,12 +49,12 @@
 
 ### Philosophy
 
-> "If your AI GTM tools don't pay for themselves in the first week, you have bigger problems." — Adapted from Bloomberg's $2,700 terminal rule.
+> "If your AI GTM tools don't pay for themselves in the first week, you have bigger problems." (Adapted from Bloomberg's $2,700 terminal rule.)
 
 <details>
 <summary>Random Facts</summary>
 
-- Stone walls and sales pipelines — both need solid foundations
+- Stone walls and sales pipelines both need solid foundations
 - Run 3-6 Claude instances concurrently
 - Powered by Italian Dolce Vita culture 🇮🇹
 - Forward. Always forward. 🏉
