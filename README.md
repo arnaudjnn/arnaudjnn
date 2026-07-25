@@ -30,7 +30,7 @@
 
 <img src="https://gitlyy.vercel.app/api/contribution?username=arnaudjnn&hide_border=true" alt="GitHub Contribution Graph" width="100%">
 
-<a href="https://straude.com/u/arnaudjnn"><img src="https://straude.com/api/card/arnaudjnn" alt="Straude Stats" width="100%"></a>
+<a href="https://straude.com/stats/arnaudjnn"><img src="https://straude.com/api/stats/arnaudjnn/image" alt="Straude Stats" width="100%"></a>
 
 ## What I'm Doing
 
