@@ -26,9 +26,9 @@
 - 🎙️ **[ai-meeting-copilot](https://github.com/arnaudjnn/ai-meeting-copilot)** - Open-source meeting assistant with real-time transcription and AI-powered Q&A.
 
 
-## Coding Activity
+## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/arnaudjnn)
+<img src="https://gitlyy.vercel.app/api/contribution?username=arnaudjnn&hide_border=true" alt="GitHub Contribution Graph" width="100%">
 
 [![Straude Stats](https://straude.com/api/card/arnaudjnn)](https://straude.com/u/arnaudjnn)
 
